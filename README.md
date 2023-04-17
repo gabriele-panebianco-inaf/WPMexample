@@ -1,2 +1,3 @@
 # WPMexample
-This is a mock repository for WPM
+This is a cool repository for WPM.
+
