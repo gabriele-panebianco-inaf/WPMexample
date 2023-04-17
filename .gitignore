@@ -1,0 +1,13 @@
+# Folders
+__*
+.vscode
+__pycache__
+
+# Extensions
+*.fits
+
+# Files
+script.sh
+
+# Exceptions
+! include_this_one.fits
